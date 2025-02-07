@@ -40,7 +40,7 @@ python generate_seed_data.py
 ```
 
 
-# Generate augmented data
+## Generate augmented data
 
 ```bash
 cd data_augmentation
@@ -52,13 +52,13 @@ python ours_l_r.py
 
 ## Intrinsic evaluation
 
-### Distinct-n
+#### Distinct-n
 ```bash
 cd data_augmentation/eval_distinct_n
 python distinct_3.py
 ```
 
-### Semantic fidelity
+#### Semantic fidelity
 ```bash
 cd data_augmentation/classification
 bash script_semantic_fidelity/semantic_fidelity_ModernBERT_base.sh
@@ -67,13 +67,13 @@ bash script_semantic_fidelity/semantic_fidelity_ModernBERT_base.sh
 
 ## Extrinsic evaluation
 
-### Classification task
+#### Classification task
 ```bash
 cd data_augmentation/classification
 bash script/bert_sst2.sh
 ```
 
-### Question answering task
+#### Question answering task
 ```bash
 cd data_augmentation/question_answer
 bash 
