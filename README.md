@@ -20,7 +20,7 @@ We elaborate on each step in the following sections.
 ## Datasets download and preprocessing
 
 ```bash
-git clone https://anonymous.4open.science/r/
+git clone https://anonymous.4open.science/r/LMTransplant-354E/
 cd LMTransplant
 pip install -r requirements.txt
 
