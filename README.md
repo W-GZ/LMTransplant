@@ -14,7 +14,7 @@ LMTransplant generates high-quality and diverse augmented text by leveraging a b
 It generates contextually relevant scenes that align with the original text, making full use of the external knowledge embedded in LLMs. 
 We elaborate on each step in the following sections.
 
-<img src="overview.png" width="750"><br/>
+<img src="overview.png" width="450"><br/>
 
 
 ## Datasets download and preprocessing
