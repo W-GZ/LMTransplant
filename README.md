@@ -1,9 +1,9 @@
-# Left, Right, and Tens of Thousands: A New Paradigm for Text Data Augmentation
-This is the PyTorch implementation for the following paper: **Left, Right, and Tens of Thousands: A New Paradigm for Text Data Augmentation**.
+# Transplant Then Regenerate: A New Paradigm for Text Data Augmentation
+This is the PyTorch implementation for the following paper: **Transplant Then Regenerate: A New Paradigm for Text Data Augmentation**.
 
 
 ## Introduction
-This repo provides the code for reproducing the experiments in “Left, Right, and Tens of Thousands: A New Paradigm for Text Data Augmentation”. 
+This repo provides the code for reproducing the experiments in “Transplant Then Regenerate: A New Paradigm for Text Data Augmentation”. 
 LMTransplant is a novel Data Augmentation method with LLM-based text transplanting. 
 It crafts realistic contextual scenarios to the original text, by leveraging external knowledge in LLMs, thereby crafting higher-quality and more diverse text data.
 
