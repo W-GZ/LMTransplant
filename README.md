@@ -62,7 +62,7 @@ python distinct_3.py
 #### Semantic Variability
 ```bash
 cd data_augmentation/classification
-bash script_semantic_fidelity/semantic_fidelity_ModernBERT_base.sh
+bash script_semantic_variability/semantic_variability.sh
 ```
 
 
@@ -78,7 +78,7 @@ bash script/bert_sst2.sh
 #### Question answering task
 ```bash
 cd data_augmentation/question_answer
-bash 
+bash train.sh
 ```
 
 
