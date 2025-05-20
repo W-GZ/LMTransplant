@@ -81,6 +81,11 @@ cd data_augmentation/question_answer
 bash train.sh
 ```
 
+#### Named entity recognition task
+```bash
+cd data_augmentation/named_entity_recognition
+bash train.sh
+```
 
 ## Main Result
 <img src="intrinsic_evaluation.png" width="750"><br/>
