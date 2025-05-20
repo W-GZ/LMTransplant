@@ -61,8 +61,8 @@ python distinct_3.py
 
 #### Semantic Variability
 ```bash
-cd data_augmentation/classification
-bash script_semantic_variability/semantic_variability.sh
+cd data_augmentation/semantic_variability
+python semantic_variability.py
 ```
 
 
