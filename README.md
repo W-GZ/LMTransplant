@@ -1,5 +1,13 @@
+
+<div align="center">
+  
 # Transplant Then Regenerate: A New Paradigm for Text Data Augmentation
-This is the PyTorch implementation for the following paper: **Transplant Then Regenerate: A New Paradigm for Text Data Augmentation**.
+
+Guangzhan Wang, Hongyu Zhang, Beijun Shen, Xiaodong Gu
+
+</div>
+
+This is the PyTorch implementation for the following paper: **[Transplant Then Regenerate: A New Paradigm for Text Data Augmentation](https://arxiv.org/abs/2508.14723)**. Our paper has been accepted to the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025, Oral). 
 
 
 ## Introduction
